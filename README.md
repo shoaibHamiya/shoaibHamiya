@@ -44,9 +44,3 @@ I specialize in building reliable software through Manual and Automation Testing
 
 ## 📫 Connect With Me
 shovebhunzai@gmail.com
-
-
-
-
-LinkedIn: https://linkedin.com/in/YOUR-LINK
-Email: your.email@example.com
