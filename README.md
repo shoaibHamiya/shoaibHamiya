@@ -63,8 +63,6 @@
 ---
 
 ## Connect With Me
-
-<p align="left">
-  <a href="mailto:shoaibhayat@gmail.com">
+shoaibhayat@gmail.com
   </a>
 </p>
