@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./banner.png" alt="QA Banner" width="100%">
-</p>
-
 <h1 align="center">Hi 👋, I'm Shoaib Hayat</h1>
 <h3 align="center">Senior Software Quality Assurance Engineer | QA Lead | Automation Enthusiast</h3>
 
