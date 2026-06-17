@@ -12,18 +12,18 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-* 🔭 Working as a **Senior Software Quality Assurance Engineer**
-* 🧪 Specialized in **Manual Testing, Test Automation, and API Testing**
-* ⚡ Experienced in **Cypress, Postman, GitLab CI/CD, and PostgreSQL**
-* 📡 Domain experience in **Telecom and Enterprise Applications**
-* 🌱 Currently exploring **Playwright and Advanced Quality Engineering Practices**
-* 🎯 Passionate about **building scalable automation frameworks and improving software quality processes**
+* Working as a **Senior Software Quality Assurance Engineer**
+* Specialized in **Manual Testing, Test Automation, and API Testing**
+* Experienced in **Cypress, Postman, GitLab CI/CD, and PostgreSQL**
+* Domain experience in **Telecom and Enterprise Applications**
+* Currently exploring **Playwright and Advanced Quality Engineering Practices**
+* Passionate about **building scalable automation frameworks and improving software quality processes**
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,git,github,gitlab,postgresql,mysql,linux,vscode" />
@@ -38,7 +38,7 @@
 
 ---
 
-## 💼 Core Competencies
+## Core Competencies
 
 * Functional Testing
 * Regression Testing
@@ -53,7 +53,7 @@
 
 ---
 
-## 🏢 Domain Expertise
+## Domain Expertise
 
 📡 Telecom Applications
 🏢 Enterprise Systems
@@ -62,10 +62,9 @@
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="mailto:shoaibhayat@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
