@@ -8,37 +8,31 @@ I specialize in building reliable software through Manual and Automation Testing
 
 ## 🚀 Skills
 
-### Testing
-- Manual Testing
-- Functional Testing
-- Regression Testing
-- Smoke Testing
-- API Testing
-- Database Testing
-- End-to-End Testing
-
-### Automation
-- Cypress
-- JavaScript
+### Technical
+- Google Workspace
 - Postman
-- GitHub Actions
-- GitLab CI/CD
-
-### Databases
+- Cypress
+- GitLab/GitHub
+- CI/CD Pipelines
 - PostgreSQL
-- SQL
+- Javascript
 
 ### Methodologies
-- Agile Scrum
+- SDLC/STLC
+- Agile/Scrum Methodologies
+- Requirement Analysis
 - Test Planning
-- Test Case Design
-- Defect Management
+- Functional Testing
+- Regression Testing
+- Documentation and Reporting
+- Defect Lifecycle Management
+- Project Management
 
 
 ## 🏢 Domain Experience
 - Telecom Applications
 - Enterprise Systems
-- Asset Management Systems
+- Enterprise Asset Management Systems
 - Work Order Management Systems
 
 
