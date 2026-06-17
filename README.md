@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="QA Banner" width="100%">
+</p>
+
 # 👋 Hi, I'm Shoaib Hayat
 
 ## Senior Software Quality Assurance Engineer
